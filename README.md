@@ -17,7 +17,7 @@ This project loads a pre-trained RNN model and classifies a user-entered review 
 - Python
 - TensorFlow / Keras
 - NumPy, Pandas, Scikit-learn
-- Streamlit :contentReference[oaicite:7]{index=7}
+- Streamlit 
 
 ---
 
