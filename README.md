@@ -7,9 +7,9 @@ This project loads a pre-trained RNN model and classifies a user-entered review 
 
 ## ✨ Features
 - **Streamlit UI** to paste/type a movie review and classify it instantly  
-- Uses the built-in **Keras IMDB dataset word index** for text encoding :contentReference[oaicite:2]{index=2}  
-- Pads sequences to a fixed length (maxlen = 500) before inference :contentReference[oaicite:3]{index=3}  
-- Loads a saved Keras model file: `simple_rnn_imdb.h5` :contentReference[oaicite:4]{index=4}  
+- Uses the built-in **Keras IMDB dataset word index** for text encoding   
+- Pads sequences to a fixed length (maxlen = 500) before inference  
+- Loads a saved Keras model file: `simple_rnn_imdb.h5`
 
 ---
 
