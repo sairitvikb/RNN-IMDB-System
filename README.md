@@ -15,8 +15,8 @@ This project loads a pre-trained RNN model and classifies a user-entered review 
 
 ## 🧰 Tech Stack
 - Python
-- TensorFlow / Keras :contentReference[oaicite:5]{index=5}
-- NumPy, Pandas, Scikit-learn :contentReference[oaicite:6]{index=6}
+- TensorFlow / Keras
+- NumPy, Pandas, Scikit-learn
 - Streamlit :contentReference[oaicite:7]{index=7}
 
 ---
