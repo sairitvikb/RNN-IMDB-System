@@ -32,7 +32,11 @@ This project loads a pre-trained RNN model and classifies a user-entered review 
 ---
 ## 🚀 Quickstart (Run Locally)
 
-### 1️⃣ Clone the Repository
+Follow the steps below to run the project on your local machine.
+
+---
+
+### 1.Clone the repository
 
 ```bash
 git clone https://github.com/sairitvikb/RNN-IMDB-System.git
@@ -41,16 +45,16 @@ cd RNN-IMDB-System
 
 ---
 
-### 2️⃣ Create & Activate a Virtual Environment (Recommended)
+### 2. Create and Activate a Virtual Environment (Recommended)
 
-#### 🪟 Windows (PowerShell)
+#### Windows (PowerShell)
 
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 
-#### 🍎 macOS / 🐧 Linux
+#### macOS / Linux
 
 ```bash
 python3 -m venv .venv
@@ -59,7 +63,7 @@ source .venv/bin/activate
 
 ---
 
-### 3️⃣ Install Dependencies
+### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -67,19 +71,19 @@ pip install -r requirements.txt
 
 ---
 
-### 4️⃣ Run the Streamlit Application
+### 4. Run the Streamlit Application
 
 ```bash
 streamlit run main.py
 ```
 
-After running the command, your browser will open automatically.
+Once the application starts, your default browser will open automatically.
 
-Simply:
-- Paste a movie review
+You can then:
+- Enter a movie review in the input box
 - Click **Classify**
-- View the predicted sentiment (Positive / Negative)
+- View the predicted sentiment (Positive or Negative)
 
 ---
 
-✅ You’re now ready to test the RNN IMDB Sentiment Analysis System!
+You are now ready to use the RNN IMDB Sentiment Analysis System locally.
