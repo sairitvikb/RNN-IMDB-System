@@ -29,7 +29,7 @@ This project loads a pre-trained RNN model and classifies a user-entered review 
 ├── prediction.ipynb        # Prediction/testing notebook
 ├── simple_rnn_imdb.h5      # Saved trained model
 └── requirements.txt        # Dependencies
----
+```
 ## 🚀 Quickstart (Run Locally)
 
 Follow the steps below to run the project on your local machine.
